@@ -1,0 +1,79 @@
+<resources>
+  <string name="app_name">FitMe</string>
+  <!-- Member APP -->
+  <string name="class_name">Name Class</string>
+  <string name="class_availability_name">Availability:</string>
+  <string name="class_availability">Available</string>
+  <string name="class_description">Class description goes here</string>
+  <string name="name_perfil">User Name</string>
+  <string name="button_perfil">Save Changes</string>
+  <string name="email">Email</string>
+  <string name="class_subscribe">Add to schedule</string>
+  <string name="hello_member">Hello!</string>
+
+  <!-- Login and Register -->
+  <string name="sign_up"><u>Sign up</u></string>
+  <string name="sign_in"><u>Sign in</u></string>
+  <string name="action_athlete">Athlete</string>
+  <string name="action_trainer">Trainer</string>
+  <string name="action_login">Login</string>
+  <string name="welcome_message">Welcome Fit Me</string>
+  <string name="hint_name">Full Name</string>
+  <string name="hint_email">Email</string>
+  <string name="hint_cell">Cell Number</string>
+  <string name="hint_date">Date of Birth</string>
+  <string name="action_save">Save</string>
+  <string name="hint_phone">Phone Number</string>
+  <string name="hint_password">Password</string>
+  <string name="register">Register</string>
+  <string name="inical_phrase">Hustle for that Muscle</string>
+  <string name="name">Name</string>
+  <string name="hint_employee_number">Employee Number</string>
+  <string name="errror_login">The email/password is not valid, try again</string>
+
+  <!-- Trainer APP -->
+  <string name="class_info_name">Class Information</string>
+  <string name="class_info_modality">Modality</string>
+  <string name="class_info_hour_begin">Class begin</string>
+  <string name="class_info_hour_end">Class end</string>
+  <string name="class_info_intensity">Intensity</string>
+  <string name="class_info_weight_loss">Weight Loss</string>
+  <string name="class_info_relaxation">Relaxation</string>
+  <string name="class_info_date">Date</string>
+  <string name="class_info_spots">Spots</string>
+  <string name="class_info_description">Description</string>
+  <string name="action_add_new_class">Add New Class</string>
+  <string name="list_athletes">List of Athletes</string>
+  <string name="maxAthletes">limit Athletes: </string>
+  <string name="numberAthletes">nº Athletes:  </string>
+
+  <string-array name="modalities">
+    <item>Pump</item>
+    <item>Jump</item>
+    <item>Cycling</item>
+    <item>Gap</item>
+    <item>Attack</item>
+    <item>Zumba</item>
+  </string-array>
+
+  <integer-array name="modalities_images">
+    <item>@drawable/ic_pump_big</item>
+    <item>@drawable/ic_jump_big</item>
+    <item>@drawable/ic_cycling_big</item>
+    <item>@drawable/ic_gap_big</item>
+    <item>@drawable/ic_attack_big</item>
+    <item>@drawable/ic_zumba_big</item>
+  </integer-array>
+
+
+  <string name="title_activity_athlete_login">Login Activity</string>
+  <string name="title_activity_member">Fit Me</string>
+  <string name="navigation_drawer_open">Open navigation drawer</string>
+  <string name="navigation_drawer_close">Close navigation drawer</string>
+  <string name="Authentication">Authenticating. Please wait...</string>
+  <string name="action_subscribe"> Subscribe</string>
+  <string name="class_add_error">Error adding class</string>
+
+  <!-- TODO: Remove or change this placeholder text -->
+  <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
